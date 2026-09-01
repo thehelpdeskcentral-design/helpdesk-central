@@ -52,7 +52,7 @@
   {
     "type": "Occupational Certificate",
     "institution": "Coastal KZN TVET College",
-    "name": "Fitter and Turner",
+    "name": "Fitter & Turner",
     "code": "94020",
     "nqf_level": 4,
     "duration_years": 3.5,
@@ -67,12 +67,12 @@
     },
     "entry": {
       "nqf_level_required": 1,
-      "grade_required": "Grade 9",
+      "grade_required": null,
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
       "rpl_allowed": true,
-      "requirement_text": "NQF Level 1, Grade 09 or equivalent, with Mathematics and Science"
+      "requirement_text": "NQF Level 1 with Mathematics and Science"
     }
   },
   {
@@ -140,12 +140,60 @@
     },
     "entry": {
       "nqf_level_required": 3,
-      "grade_required": "Grade 11",
+      "grade_required": null,
       "ncv_level_required": 3,
       "matric_required": false,
       "aps_required": null,
       "rpl_allowed": true,
-      "requirement_text": "NCV Level 3 or NQF Level 3 equivalent"
+      "requirement_text": "National Certificate Vocational (NCV) at NQF Level 3, OR any other NQF Level 3 qualification"
+    }
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Coastal KZN TVET College",
+    "name": "Chef",
+    "code": "94941",
+    "nqf_level": 4,
+    "duration_years": 3,
+    "credits": 380,
+    "campus": "Swinton Campus",
+    "subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 2,
+      "grade_required": "Grade 10",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 2, Grade 10"
+    }
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Coastal KZN TVET College",
+    "name": "Computer Technician",
+    "code": "101408",
+    "nqf_level": 5,
+    "duration_years": 2,
+    "credits": 282,
+    "campus": "Durban Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "Mathematics", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": null,
+      "matric_required": true,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4 NQF, Grade 12 or equivalent, with Mathematics"
     }
   },
   {
@@ -156,56 +204,6 @@
     "nqf_level": 4,
     "duration_years": 1,
     "credits": 184,
-    "campus": "Swinton Campus",
-    "subjects": {
-      "must_have": [
-        { "subject": "Mathematics", "min_mark": 0 }
-      ],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 1,
-      "grade_required": "Grade 9",
-      "ncv_level_required": null,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "NQF Level 1, Grade 09 or equivalent, with Mathematics"
-    }
-  },
-  {
-    "type": "Occupational Certificate",
-    "institution": "Coastal KZN TVET College",
-    "name": "Kitchen Hand",
-    "code": "110354",
-    "nqf_level": 3,
-    "duration_years": 0.42,
-    "credits": 52,
-    "campus": "Swinton Campus",
-    "subjects": {
-      "must_have": [
-        { "subject": "Mathematics", "min_mark": 0 }
-      ],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 1,
-      "grade_required": "Grade 9",
-      "ncv_level_required": null,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "NQF Level 1, Grade 09 or equivalent, with Mathematics"
-    }
-  },
-  {
-    "type": "Occupational Certificate",
-    "institution": "Coastal KZN TVET College",
-    "name": "Food Handler",
-    "code": "110644",
-    "nqf_level": 2,
-    "duration_years": 0.25,
-    "credits": 32,
     "campus": "Swinton Campus",
     "subjects": {
       "must_have": [
@@ -251,6 +249,31 @@
   {
     "type": "Occupational Certificate",
     "institution": "Coastal KZN TVET College",
+    "name": "Office Administrator",
+    "code": "102161",
+    "nqf_level": 5,
+    "duration_years": 3,
+    "credits": 445,
+    "campus": "As-Salaam Campus & Appelsbosch Campus",
+    "subjects": {
+      "must_have": [
+        { "subject": "Communication", "min_mark": 0 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 4,
+      "grade_required": "Grade 12",
+      "ncv_level_required": null,
+      "matric_required": true,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 4, Grade 12 or equivalent, with Communication"
+    }
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Coastal KZN TVET College",
     "name": "Bricklayer",
     "code": "93627",
     "nqf_level": 4,
@@ -264,11 +287,11 @@
     "entry": {
       "nqf_level_required": 3,
       "grade_required": "Grade 11",
-      "ncv_level_required": 3,
+      "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
       "rpl_allowed": true,
-      "requirement_text": "NQF Level 3 or equivalent (Grade 11 / NCV Level 3)"
+      "requirement_text": "NQF Level 3, Grade 11 or equivalent"
     }
   },
   {
@@ -287,11 +310,34 @@
     "entry": {
       "nqf_level_required": 3,
       "grade_required": "Grade 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 3, Grade 11 or equivalent"
+    }
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Coastal KZN TVET College",
+    "name": "Plumber",
+    "code": "91782",
+    "nqf_level": 4,
+    "duration_years": 3,
+    "credits": 360,
+    "campus": "Umlazi-V Campus",
+    "subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": null,
       "ncv_level_required": 3,
       "matric_required": false,
       "aps_required": null,
       "rpl_allowed": true,
-      "requirement_text": "NQF Level 3 or equivalent (Grade 11 / NCV Level 3)"
+      "requirement_text": "NQF Level 3 qualification, equivalent to N2/NCV L3 knowledge areas of Engineering Maths, Science and Building Drawings"
     }
   },
   {
@@ -337,11 +383,11 @@
     "entry": {
       "nqf_level_required": 4,
       "grade_required": "Grade 12",
-      "ncv_level_required": 4,
+      "ncv_level_required": null,
       "matric_required": true,
       "aps_required": null,
       "rpl_allowed": true,
-      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4, with Mathematical Literacy"
+      "requirement_text": "NQF Level 4, Grade 12 or equivalent, with Mathematical Literacy"
     }
   },
   {
@@ -360,11 +406,11 @@
     "entry": {
       "nqf_level_required": 4,
       "grade_required": "Grade 12",
-      "ncv_level_required": 4,
+      "ncv_level_required": null,
       "matric_required": true,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4"
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 4 qualification (Grade 12 or equivalent)"
     }
   },
   {
@@ -383,71 +429,22 @@
     "entry": {
       "nqf_level_required": 4,
       "grade_required": "Grade 12",
-      "ncv_level_required": 4,
+      "ncv_level_required": null,
       "matric_required": true,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4"
+      "rpl_allowed": false,
+      "requirement_text": "NQF Level 4 qualification (Grade 12 or equivalent)"
     }
   },
   {
     "type": "Occupational Certificate",
     "institution": "Coastal KZN TVET College",
-    "name": "Plumber",
-    "code": "91782",
-    "nqf_level": 4,
-    "duration_years": 3,
-    "credits": 360,
-    "campus": "Umlazi-V Campus",
-    "subjects": {
-      "must_have": [
-        { "subject": "Mathematics", "min_mark": 0 },
-        { "subject": "Science", "min_mark": 0 }
-      ],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "NQF Level 3 or equivalent (Grade 11 / NCV Level 3), with Mathematics and Science"
-    }
-  },
-  {
-    "type": "Occupational Certificate",
-    "institution": "Coastal KZN TVET College",
-    "name": "Chef",
-    "code": "94941",
-    "nqf_level": 4,
-    "duration_years": 3,
-    "credits": 380,
+    "name": "Food Handler",
+    "code": "110644",
+    "nqf_level": 2,
+    "duration_years": 0.25,
+    "credits": 32,
     "campus": "Swinton Campus",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "NQF Level 2, Grade 10 or NCV Level 2"
-    }
-  },
-  {
-    "type": "Occupational Certificate",
-    "institution": "Coastal KZN TVET College",
-    "name": "Computer Technician",
-    "code": "101408",
-    "nqf_level": 5,
-    "duration_years": 2,
-    "credits": 282,
-    "campus": "Durban Campus",
     "subjects": {
       "must_have": [
         { "subject": "Mathematics", "min_mark": 0 }
@@ -455,974 +452,362 @@
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 4,
-      "grade_required": "Grade 12",
-      "ncv_level_required": 4,
-      "matric_required": true,
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
       "aps_required": null,
       "rpl_allowed": true,
-      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4, with Mathematics"
+      "requirement_text": "NQF Level 1, Grade 09 or equivalent, with Mathematics"
     }
   },
   {
     "type": "Occupational Certificate",
     "institution": "Coastal KZN TVET College",
-    "name": "Office Administrator",
-    "code": "102161",
-    "nqf_level": 5,
-    "duration_years": 3,
-    "credits": 445,
-    "campus": "As-Salaam Campus & Appelsbosch Campus",
+    "name": "Kitchen Hand",
+    "code": "110354",
+    "nqf_level": 3,
+    "duration_years": 0.42,
+    "credits": 52,
+    "campus": "Swinton Campus",
     "subjects": {
       "must_have": [
-        { "subject": "Communication", "min_mark": 0 }
+        { "subject": "Mathematics", "min_mark": 0 }
       ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 4,
-      "grade_required": "Grade 12",
-      "ncv_level_required": 4,
-      "matric_required": true,
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
       "aps_required": null,
       "rpl_allowed": true,
-      "requirement_text": "NQF Level 4, Grade 12 or NCV Level 4, with Communication"
+      "requirement_text": "NQF Level 1, Grade 09 or equivalent, with Mathematics"
     }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
     "name": "Finance, Economics and Accounting",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
-    "campus": "Umlazi-BB",
+    "campus": "Umlazi-BB Campus",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Finance, Economics and Accounting Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification; Level 3: Level 2 or equivalent; Level 4: Level 3 or equivalent"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Finance, Economics and Accounting",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Umlazi-BB",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Finance, Economics and Accounting Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Finance, Economics and Accounting",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Umlazi-BB",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
     "name": "Marketing",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
-    "campus": "Umbumbulu",
+    "campus": "Umbumbulu Campus",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Marketing Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification; Level 3: Level 2 or equivalent; Level 4: Level 3 or equivalent"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Marketing",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Umbumbulu",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Marketing Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Marketing",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Umbumbulu",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
     "name": "Management",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
-    "campus": "Durban",
+    "campus": "Durban Campus",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Management Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Grade 9 or higher"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Management",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Durban",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Management Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Management",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Durban",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
     "name": "Office Administration",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
-    "campus": null,
+    "campus": "As-Salaam (L2-L4), Umlazi-BB, Appelsbosch & UBuhle-Bogu (L2-L4)",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Office Administration Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification; Level 3: Level 2 or equivalent; Level 4: Level 3 or equivalent"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Office Administration",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Office Administration Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Office Administration",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
     "name": "Information Technology and Computer Science",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
-    "campus": null,
+    "campus": "Durban Campus",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Information Technology and Computer Science Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Grade 9 or higher"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Information Technology and Computer Science",
+    "name": "Civil Engineering & Building Construction",
     "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
-    "campus": null,
+    "campus": "Appelsbosch, Umlazi-V",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Information Technology and Computer Science Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Business Studies",
-    "name": "Information Technology and Computer Science",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Engineering Studies",
-    "name": "Civil Engineering and Building Construction",
-    "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Civil Engineering and Building Construction Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Grade 9 or higher"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "Engineering Studies",
-    "name": "Civil Engineering and Building Construction",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Civil Engineering and Building Construction Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Engineering Studies",
-    "name": "Civil Engineering and Building Construction",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Engineering Studies",
     "name": "Electrical Infrastructure Construction",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
-    "campus": null,
+    "campus": "As-Salaam (L2-L4), Appelsbosch, Swinton",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Electrical Infrastructure Construction Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Grade 9 or higher"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "Engineering Studies",
-    "name": "Electrical Infrastructure Construction",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Electrical Infrastructure Construction Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Engineering Studies",
-    "name": "Electrical Infrastructure Construction",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Engineering Studies",
     "name": "Engineering and Related Design",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
     "campus": null,
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Engineering and Related Design Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification; Level 3: Level 2 or equivalent; Level 4: Level 3 or equivalent"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "Engineering Studies",
-    "name": "Engineering and Related Design",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Engineering and Related Design Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "Engineering Studies",
-    "name": "Engineering and Related Design",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
     "name": "Education and Development",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
-    "campus": null,
+    "campus": "Swinton, Durban",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Education and Development Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification; Level 3: Level 2 or equivalent; Level 4: Level 3 or equivalent"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
-    "name": "Education and Development",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Education and Development Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
-    "name": "Education and Development",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
     "name": "Hospitality",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
     "campus": "Appelsbosch, Swinton, Umbumbulu",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Hospitality Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification; Level 3: Level 2 or equivalent; Level 4: Level 3 or equivalent"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
-    "name": "Hospitality",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Appelsbosch, Swinton, Umbumbulu",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Hospitality Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
-    "name": "Hospitality",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Appelsbosch, Swinton, Umbumbulu",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
     "name": "Primary Agriculture",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
-    "campus": null,
+    "campus": "Umlazi-V, Appelsbosch",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Primary Agriculture Level 3"
+      "rpl_allowed": false,
+      "requirement_text": "Level 2: Grade 9 or equivalent qualification; Level 3: Level 2 or equivalent; Level 4: Level 3 or equivalent"
+    }
   },
   {
-    "type": "NCV",
+    "type": "National Certificate Vocational (NCV)",
     "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
-    "name": "Primary Agriculture",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Primary Agriculture Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
-    "name": "Primary Agriculture",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": null,
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
     "name": "Tourism",
     "code": null,
-    "nqf_level": 2,
-    "duration_years": 1,
+    "nqf_level": "2-4",
+    "duration_years": 3,
     "credits": null,
     "campus": "Swinton, Umbumbulu",
     "subjects": {
-      "must_have": [],
+      "must_have": [
+        { "subject": "Communication (Language)", "min_mark": 0 },
+        { "subject": "Mathematics or Mathematical Literacy", "min_mark": 0 },
+        { "subject": "Life Orientation", "min_mark": 0 }
+      ],
       "or_groups": []
     },
     "entry": {
-      "nqf_level_required": 1,
+      "nqf_level_required": null,
       "grade_required": "Grade 9",
       "ncv_level_required": null,
       "matric_required": false,
       "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 2: Grade 9 or equivalent qualification"
-    },
-    "level": 2,
-    "next_level": "NCV: Tourism Level 3"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
-    "name": "Tourism",
-    "code": null,
-    "nqf_level": 3,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Swinton, Umbumbulu",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 2,
-      "grade_required": "Grade 10",
-      "ncv_level_required": 2,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 3: Level 2 or equivalent qualification"
-    },
-    "level": 3,
-    "next_level": "NCV: Tourism Level 4"
-  },
-  {
-    "type": "NCV",
-    "institution": "Coastal KZN TVET College",
-    "category": "General Studies",
-    "name": "Tourism",
-    "code": null,
-    "nqf_level": 4,
-    "duration_years": 1,
-    "credits": null,
-    "campus": "Swinton, Umbumbulu",
-    "subjects": {
-      "must_have": [],
-      "or_groups": []
-    },
-    "entry": {
-      "nqf_level_required": 3,
-      "grade_required": "Grade 11",
-      "ncv_level_required": 3,
-      "matric_required": false,
-      "aps_required": null,
-      "rpl_allowed": true,
-      "requirement_text": "Level 4: Level 3 or equivalent qualification"
-    },
-    "level": 4,
-    "next_level": null
+      "rpl_allowed": false,
+      "requirement_text": "Grade 9 or higher"
+    }
   }
 ]
