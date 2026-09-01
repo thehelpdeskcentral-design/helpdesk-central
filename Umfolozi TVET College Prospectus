@@ -1,0 +1,320 @@
+[
+  // ============================================================
+  // CAMPUS: CHIEF ALBERT LUTHULI CAMPUS - NCV - FULL TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Chief Albert Luthuli Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+
+  // ============================================================
+  // CAMPUS: ESHOWE CAMPUS - NCV - FULL TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Electrical Infrastructure Construction",
+    "name": "Electrical Infrastructure and Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Eshowe Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure and Construction Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Hospitality",
+    "name": "Hospitality Services",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Eshowe Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Hospitality Services Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Agriculture",
+    "name": "Primary Agriculture (with Mathematics)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Eshowe Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Primary Agriculture Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Agriculture",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Eshowe Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Primary Agriculture Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Agriculture",
+    "name": "Primary Agriculture (with Maths Literacy)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Eshowe Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Primary Agriculture Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+
+  // ============================================================
+  // CAMPUS: MANDENI CAMPUS - NCV - FULL TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Electrical Infrastructure Construction",
+    "name": "Electrical Infrastructure Construction (ESC - Electrical Systems & Construction)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Mandeni Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Electrical Infrastructure Construction",
+    "name": "Electrical Infrastructure Construction (RET - Renewable Energy Technologies)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Mandeni Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design (Fitting & Turning)",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Mandeni Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+
+  // ============================================================
+  // CAMPUS: NKANDLA CAMPUS - NCV - FULL TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Civil Engineering and Building Construction",
+    "name": "Civil Engineering and Building Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Nkandla Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Civil Engineering and Building Construction Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Electrical Infrastructure Construction",
+    "name": "Electrical Infrastructure and Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Nkandla Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure and Construction Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Agriculture",
+    "name": "Primary Agriculture",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Nkandla Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Primary Agriculture Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  },
+
+  // ============================================================
+  // CAMPUS: SUNDUMBILI CAMPUS - NCV - FULL TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Umfolozi TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design",
+    "code": "F/ERDL2A",
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Sundumbili Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    }
+  }
+]
