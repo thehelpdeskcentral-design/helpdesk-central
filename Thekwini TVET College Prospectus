@@ -1,0 +1,938 @@
+[
+  // ============================================================
+  // CAMPUS: ASHERVILLE - NCV - FULL TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Education and Development",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "study_mode": "Full Time",
+    "level": 3,
+    "next_level": "NCV: Education and Development Level 4",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 2",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "All 7 subjects on Level 3 (requires completion of Level 2)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Education and Development",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "study_mode": "Full Time",
+    "level": 4,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 3",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "All 7 subjects on Level 4 (requires completion of Level 3)"
+    }
+  },
+
+  // ============================================================
+  // CAMPUS: ASHERVILLE - NCV - PART TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Education and Development",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "study_mode": "Part Time",
+    "level": 2,
+    "next_level": "NCV: Education and Development Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 2"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Education and Development",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "study_mode": "Part Time",
+    "level": 3,
+    "next_level": "NCV: Education and Development Level 4",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 2",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 3 (requires completion of Level 2)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Education and Development",
+    "name": "Education and Development",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "study_mode": "Part Time",
+    "level": 4,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 3",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 4 (requires completion of Level 3)"
+    }
+  },
+
+  // ============================================================
+  // CAMPUS: CENTEC - NCV - FULL TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Office Administration",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 3,
+    "next_level": "NCV: Office Administration Level 4",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 2",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "All 7 subjects on Level 3 (requires completion of Level 2)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Office Administration",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 4,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 3",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "All 7 subjects on Level 4 (requires completion of Level 3)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Tourism Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "All 7 subjects on Level 2. Learners who completed Grade 12 would NOT be accepted for this programme."
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 3,
+    "next_level": "NCV: Tourism Level 4",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 2",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "All 7 subjects on Level 3 (requires completion of Level 2)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 4,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 3",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "All 7 subjects on Level 4 (requires completion of Level 3)"
+    }
+  },
+
+  // ============================================================
+  // CAMPUS: CENTEC - NCV - PART TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Office Administration",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Part Time",
+    "level": 2,
+    "next_level": "NCV: Office Administration Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 2. Learners who completed Grade 12 would NOT be accepted for this programme."
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Office Administration",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Part Time",
+    "level": 3,
+    "next_level": "NCV: Office Administration Level 4",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 2",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 3 (requires completion of Level 2)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Office Administration",
+    "name": "Office Administration",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Part Time",
+    "level": 4,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 3",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 4 (requires completion of Level 3)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Part Time",
+    "level": 2,
+    "next_level": "NCV: Tourism Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 2. Learners who completed Grade 12 would NOT be accepted for this programme."
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Part Time",
+    "level": 3,
+    "next_level": "NCV: Tourism Level 4",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 2",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 3 (requires completion of Level 2)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Part Time",
+    "level": 4,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 3",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 4 (requires completion of Level 3)"
+    }
+  },
+
+  // ============================================================
+  // CAMPUS: MELBOURNE - NCV - FULL TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science - Software Development",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Full Time",
+    "level": 3,
+    "next_level": "NCV: Information Technology and Computer Science Level 4",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 2",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "All 7 subjects on Level 3 (requires completion of Level 2)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science - Software Development",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Full Time",
+    "level": 4,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 3",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "All 7 subjects on Level 4 (requires completion of Level 3)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science - Programming and Robotics",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Full Time",
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Learners who completed Grade 12 would NOT be accepted for this programme."
+    }
+  },
+
+  // ============================================================
+  // CAMPUS: MELBOURNE - NCV - PART TIME
+  // ============================================================
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science - Programming and Robotics",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Part Time",
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 2. Learners who completed Grade 12 would NOT be accepted for this programme."
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science - Software Development",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Part Time",
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science Level 3",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 2. Learners who completed Grade 12 would NOT be accepted for this programme."
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science - Software Development",
+    "code": null,
+    "nqf_level": 3,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Part Time",
+    "level": 3,
+    "next_level": "NCV: Information Technology and Computer Science Level 4",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 2",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 3 (requires completion of Level 2)"
+    }
+  },
+  {
+    "type": "NCV",
+    "institution": "Thekwini TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science - Software Development",
+    "code": null,
+    "nqf_level": 4,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Part Time",
+    "level": 4,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": "NCV Level 3",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Taking less than 7 subjects on Level 4 (requires completion of Level 3)"
+    }
+  },
+
+  // ============================================================
+  // NATED (ENGINEERING) - MELBOURNE CAMPUS - FULL TIME
+  // ============================================================
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Civil Engineering",
+    "name": "Civil Engineering",
+    "code": "N5",
+    "nqf_level": 5,
+    "duration_years": 0.33,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Full Time",
+    "level": 5,
+    "next_level": "Civil Engineering N6",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed for N5 (progression from N4 assumed)"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Civil Engineering",
+    "name": "Civil Engineering",
+    "code": "N6",
+    "nqf_level": 6,
+    "duration_years": 0.33,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Full Time",
+    "level": 6,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed for N6 (progression from N5 assumed)"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Electrical Engineering",
+    "name": "Electrical Heavy Current",
+    "code": "N5",
+    "nqf_level": 5,
+    "duration_years": 0.33,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Full Time",
+    "level": 5,
+    "next_level": "Electrical Heavy Current N6",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Pass of AT LEAST 3 relevant N4 subjects."
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Electrical Engineering",
+    "name": "Electrical Heavy Current",
+    "code": "N6",
+    "nqf_level": 6,
+    "duration_years": 0.33,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Full Time",
+    "level": 6,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Passed 4 relevant N4 subjects. Passed AT LEAST 3 relevant N5 subjects."
+    }
+  },
+
+  // ============================================================
+  // NATED (ENGINEERING) - MELBOURNE CAMPUS - PART TIME
+  // ============================================================
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Electrical Engineering",
+    "name": "Electrical Heavy Current",
+    "code": "N5",
+    "nqf_level": 5,
+    "duration_years": 0.33,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Part Time",
+    "level": 5,
+    "next_level": "Electrical Heavy Current N6",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Mathematics / Technical Mathematics 40% (Maths Literacy not accepted). Physical Science / Technical Science 40%."
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Electrical Engineering",
+    "name": "Electrical Heavy Current",
+    "code": "N6",
+    "nqf_level": 6,
+    "duration_years": 0.33,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Part Time",
+    "level": 6,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Mathematics / Technical Mathematics 40% (Maths Literacy not accepted). Physical Science / Technical Science 40%."
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Civil Engineering",
+    "name": "Civil Engineering",
+    "code": "N5",
+    "nqf_level": 5,
+    "duration_years": 0.33,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Part Time",
+    "level": 5,
+    "next_level": "Civil Engineering N6",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed for N5 (progression from N4 assumed)"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Civil Engineering",
+    "name": "Civil Engineering",
+    "code": "N6",
+    "nqf_level": 6,
+    "duration_years": 0.33,
+    "credits": null,
+    "campus": "Melbourne Campus",
+    "study_mode": "Part Time",
+    "level": 6,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed for N6 (progression from N5 assumed)"
+    }
+  },
+
+  // ============================================================
+  // NATED (BUSINESS STUDIES) - ASHERVILLE CAMPUS - FULL TIME
+  // ============================================================
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Public Management",
+    "name": "Public Management",
+    "code": "N5",
+    "nqf_level": 5,
+    "duration_years": 0.5,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "study_mode": "Full Time",
+    "level": 5,
+    "next_level": "Public Management N6",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed for N5 (progression from N4 assumed)"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Public Management",
+    "name": "Public Management",
+    "code": "N6",
+    "nqf_level": 6,
+    "duration_years": 0.5,
+    "credits": null,
+    "campus": "Asherville Campus",
+    "study_mode": "Full Time",
+    "level": 6,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed for N6 (progression from N5 assumed)"
+    }
+  },
+
+  // ============================================================
+  // NATED (BUSINESS STUDIES) - CENTEC CAMPUS - FULL TIME
+  // ============================================================
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Financial Management",
+    "name": "Financial Management",
+    "code": "N5",
+    "nqf_level": 5,
+    "duration_years": 0.5,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 5,
+    "next_level": "Financial Management N6",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "PASS 3 SUBJECTS AT N4 LEVEL"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Financial Management",
+    "name": "Financial Management",
+    "code": "N6",
+    "nqf_level": 6,
+    "duration_years": 0.5,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 6,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "3 SUBJECTS PASSED AT N5 LEVEL"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Hospitality",
+    "name": "Hospitality & Catering Services",
+    "code": "N5",
+    "nqf_level": 5,
+    "duration_years": 0.5,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 5,
+    "next_level": "Hospitality & Catering Services N6",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed for N5 (progression from N4 assumed)"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Hospitality",
+    "name": "Hospitality & Catering Services",
+    "code": "N6",
+    "nqf_level": 6,
+    "duration_years": 0.5,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 6,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed for N6 (progression from N5 assumed)"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": "N5",
+    "nqf_level": 5,
+    "duration_years": 0.5,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 5,
+    "next_level": "Tourism N6",
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "AT LEAST 3 SUBJECTS PASSED AT N4 LEVEL"
+    }
+  },
+  {
+    "type": "NATED",
+    "institution": "Thekwini TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": "N6",
+    "nqf_level": 6,
+    "duration_years": 0.5,
+    "credits": null,
+    "campus": "Centec Campus",
+    "study_mode": "Full Time",
+    "level": 6,
+    "next_level": null,
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "PASS 3 SUBJECTS IN N5 LEVEL"
+    }
+  }
+]
