@@ -1,0 +1,635 @@
+[
+  // ===== NCV COURSES (TOSA CAMPUS) =====
+  {
+    "type": "NCV",
+    "institution": "Goldfields TVET College",
+    "category": "Civil Engineering and Building Construction",
+    "name": "Plumbing",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or higher"
+    },
+    "level": 2,
+    "next_level": "NCV: Plumbing Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Goldfields TVET College",
+    "category": "Electrical Infrastructure Construction",
+    "name": "Electrical Systems & Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or higher"
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Goldfields TVET College",
+    "category": "Electrical Infrastructure Construction",
+    "name": "Renewable Energy Technologies",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or higher"
+    },
+    "level": 2,
+    "next_level": "NCV: Renewable Energy Technologies Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Goldfields TVET College",
+    "category": "Engineering Studies",
+    "name": "Automotive Repair & Maintenance",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or higher"
+    },
+    "level": 2,
+    "next_level": "NCV: Automotive Repair & Maintenance Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Goldfields TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering Fabrication Boilermaking",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or higher"
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering Fabrication Boilermaking Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Goldfields TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9 or higher",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9 or higher"
+    },
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science Level 3"
+  },
+
+  // ===== NCV COURSES (WELKOM CAMPUS) =====
+  {
+    "type": "NCV",
+    "institution": "Goldfields TVET College",
+    "category": "Hospitality",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Passed Grade 9/10/11. Documents: Certified copy of ID and school report. Note: ONLY applicants who have ALREADY APPLIED FOR NSFAS will be considered."
+    },
+    "level": 2,
+    "next_level": "NCV: Hospitality Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Goldfields TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Passed Grade 9/10/11. Documents: Certified copy of ID and school report. Note: ONLY applicants who have ALREADY APPLIED FOR NSFAS will be considered."
+    },
+    "level": 2,
+    "next_level": "NCV: Tourism Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Goldfields TVET College",
+    "category": "Transport and Logistics",
+    "name": "Transport and Logistics",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Passed Grade 9/10/11. Documents: Certified copy of ID and school report. Note: ONLY applicants who have ALREADY APPLIED FOR NSFAS will be considered."
+    },
+    "level": 2,
+    "next_level": "NCV: Transport and Logistics Level 3"
+  },
+
+  // ===== OCCUPATIONAL CERTIFICATES (SKILLS ACADEMY) =====
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Education and Training",
+    "name": "Early Childhood Development Practitioner",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Skills Academy",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    },
+    "level": null,
+    "next_level": null
+  },
+
+  // ===== OCCUPATIONAL CERTIFICATES (TOSA CAMPUS) =====
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Engineering",
+    "name": "Boilermaker",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Electrical",
+    "name": "Electrician",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Plumbing",
+    "name": "Plumber",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "Engineering Maths", "min_mark": null },
+        { "subject": "Science", "min_mark": null },
+        { "subject": "Building Drawings", "min_mark": null }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 3,
+      "grade_required": "Grade 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 3 qualification (Grade 11), equivalent to N2 knowledge areas of Engineering Maths, Science and Building Drawings"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Renewable Energy",
+    "name": "Solar Photovoltaic Service Technician",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Welding",
+    "name": "Welder",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Tosa Campus",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "Mathematics", "min_mark": null },
+        { "subject": "Science", "min_mark": null }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": 1,
+      "grade_required": "Grade 9",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "NQF Level 1 qualification (Grade 9), with mathematics and science"
+    },
+    "level": null,
+    "next_level": null
+  },
+
+  // ===== OCCUPATIONAL CERTIFICATES (WELKOM CAMPUS) =====
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Finance",
+    "name": "Bookkeeper",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": [
+        {
+          "group": [
+            { "subject": "Mathematics / Mathematical Literacy", "min_mark": 40 }
+          ],
+          "qualification": "FEA L4 NC(V)"
+        },
+        {
+          "group": [
+            { "subject": "Accounting", "min_mark": 40 },
+            { "subject": "English", "min_mark": 40 },
+            { "subject": "Mathematics / Mathematical Literacy", "min_mark": 40 }
+          ],
+          "qualification": "Grade 12"
+        }
+      ]
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 12",
+      "ncv_level_required": "NC(V) Level 4",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Passed FEA L4 NC(V) with Math’s/Lit 40% or Grade 12 with Accounting, English and Math’/Lit 40%"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Hospitality and Culinary",
+    "name": "Chef",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": [
+        {
+          "group": [
+            { "subject": "English", "min_mark": 40 },
+            { "subject": "Consumer Studies", "min_mark": 50 }
+          ],
+          "qualification": "Grade 12"
+        },
+        {
+          "group": [
+            { "subject": "English", "min_mark": 40 },
+            { "subject": "Hospitality Services", "min_mark": 50 }
+          ],
+          "qualification": "Grade 12"
+        }
+      ]
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 12",
+      "ncv_level_required": "NC(V) Level 4",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Passed L4 NC(V) or Grade 12 with 40% English and 50% Consumer Studies or Hospitality Services"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Community Development",
+    "name": "Community Development Practitioner",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Community Development",
+    "name": "Community Development Worker",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Beauty",
+    "name": "Hairdresser",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Must have completed Hairdresser Year 2 (this is Year 3 of the programme)"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Office Administration",
+    "name": "Office Administrator",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": null,
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "No specific entry requirements listed"
+    },
+    "level": null,
+    "next_level": null
+  },
+  {
+    "type": "Occupational Certificate",
+    "institution": "Goldfields TVET College",
+    "category": "Tourism",
+    "name": "Tourist Information Officer",
+    "code": null,
+    "nqf_level": null,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Welkom Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": [
+        {
+          "group": [
+            { "subject": "English", "min_mark": 40 },
+            { "subject": "Geography", "min_mark": 50 }
+          ],
+          "qualification": "Grade 12"
+        },
+        {
+          "group": [
+            { "subject": "English", "min_mark": 40 },
+            { "subject": "Tourism", "min_mark": 50 }
+          ],
+          "qualification": "Grade 12"
+        }
+      ]
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 12",
+      "ncv_level_required": "NC(V) Level 4",
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Passed L4 NC(V) or Grade 12 with English 40% and 50% Geography or Tourism"
+    },
+    "level": null,
+    "next_level": null
+  }
+]
