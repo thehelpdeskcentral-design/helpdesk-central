@@ -1,0 +1,300 @@
+[
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design - Automotive",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Charles Goodyear CAM",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "Life Orientation", "min_mark": 40 },
+        { "subject": "English", "min_mark": 40 },
+        { "subject": "Mathematics", "min_mark": 30 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11 with Life Orientation and English 40%, Mathematics 30%, Rest of subject 50%"
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design - Automotive Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design - Fitting",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Charles Goodyear CAM",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "Life Orientation", "min_mark": 40 },
+        { "subject": "English", "min_mark": 40 },
+        { "subject": "Mathematics", "min_mark": 30 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11 with Life Orientation and English 40%, Mathematics 30%, Rest of subject 50%"
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design - Fitting Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Engineering Studies",
+    "name": "Engineering and Related Design - Welding",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Charles Goodyear CAM",
+    "entry_subjects": {
+      "must_have": [
+        { "subject": "Life Orientation", "min_mark": 40 },
+        { "subject": "English", "min_mark": 40 },
+        { "subject": "Mathematics", "min_mark": 30 }
+      ],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11 with Life Orientation and English 40%, Mathematics 30%, Rest of subject 50%"
+    },
+    "level": 2,
+    "next_level": "NCV: Engineering and Related Design - Welding Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Safety in Society",
+    "name": "Safety in Society",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Graaff-Reinet Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11"
+    },
+    "level": 2,
+    "next_level": "NCV: Safety in Society Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Hospitality",
+    "name": "Hospitality",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Grahamstown Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11"
+    },
+    "level": 2,
+    "next_level": "NCV: Hospitality Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Grahamstown Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11"
+    },
+    "level": 2,
+    "next_level": "NCV: Tourism Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Tourism",
+    "name": "Tourism",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "High Street Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11"
+    },
+    "level": 2,
+    "next_level": "NCV: Tourism Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction - Electrical Systems and Construction",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Park Avenue Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11"
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction - Electrical Systems and Construction Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Engineering Studies",
+    "name": "Electrical Infrastructure Construction - Renewable Energy Technology",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Park Avenue Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11"
+    },
+    "level": 2,
+    "next_level": "NCV: Electrical Infrastructure Construction - Renewable Energy Technology Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Park Avenue Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11"
+    },
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science Level 3"
+  },
+  {
+    "type": "NCV",
+    "institution": "Eastcape Midlands TVET College",
+    "category": "Information Technology",
+    "name": "Information Technology and Computer Science - Programming and Robotics",
+    "code": null,
+    "nqf_level": 2,
+    "duration_years": 1,
+    "credits": null,
+    "campus": "Park Avenue Campus",
+    "entry_subjects": {
+      "must_have": [],
+      "or_groups": []
+    },
+    "entry": {
+      "nqf_level_required": null,
+      "grade_required": "Grade 9, 10 or 11",
+      "ncv_level_required": null,
+      "matric_required": false,
+      "aps_required": null,
+      "rpl_allowed": true,
+      "requirement_text": "Grade 9, 10 or 11"
+    },
+    "level": 2,
+    "next_level": "NCV: Information Technology and Computer Science - Programming and Robotics Level 3"
+  }
+]
